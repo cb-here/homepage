@@ -1,0 +1,11 @@
+:root {
+    --bg-secondary: #ecec61;
+    --primary-text-color: #7ef17e;
+    --secondary-color: #c9e52a;
+    --accent-color: #0088CC;
+    --accent-hover: #007AB8;
+    --input-bg: #F5F5F5;
+    --border-color: #E0E0E0;
+    --user-bubble-bg: #DCF8C6;
+    --friend-bubble-bg: #FFFFFF;
+  }

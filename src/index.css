@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+.new-btn2 {
+    background-color: rgb(220, 220, 69);
+    border: 2px solid black;
+    box-shadow: -2px 2px 0 0 #fff;
+    border-top-left-radius: 24px;
+    border-bottom-right-radius: 16px;
+    border-bottom-left-radius: 24px;
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    color: var(--color-text-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px
+}
+
+.new-btn2:hover{
+    background-color: rgb(27, 209, 27);
+}
+
+.home-filters,.home-filters>div {
+    height: 100%
+}
+
+.home-filter-form select {
+    width: 100%;
+    color: #fff;
+    background-color: #4e4a59;
+    margin: 0;
+    border-radius: 2px;
+    padding: .786em .5em .714em
+}
+
+.max-container {
+    padding-left: 80px;
+    padding-right: 80px
+}
+
+.max-container {
+    max-width: 1440px;
+}
